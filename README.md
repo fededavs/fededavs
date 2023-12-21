@@ -16,4 +16,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=fededavs&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fededavs&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=fededavs&limit=&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
