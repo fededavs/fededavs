@@ -10,13 +10,15 @@
 
 # 📊 GitHub Stats:
 <div align=center>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=fededavs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=fededavs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=fededavs&theme=tokyonight&hide_border=true"/>
+  <img height=190  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fededavs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <img height=190  src="https://github-readme-stats.vercel.app/api?username=fededavs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height=190  src="https://github-readme-streak-stats.herokuapp.com/?user=fededavs&theme=tokyonight&hide_border=true" />
 </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fededavs&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fededavs&limit=&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
+<div align=center>
+  <img height=200 src="https://github-contributor-stats.vercel.app/api?username=fededavs&limit=&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true"/>
+</div>
