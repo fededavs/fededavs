@@ -10,7 +10,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fededavs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=donut)
-![](https://github-readme-stats.vercel.app/api?username=fededavs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
+<a>
+  <img height=215  src="https://github-readme-stats.vercel.app/api?username=fededavs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+</a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fededavs&theme=tokyonight&hide_border=true)
 
 ## 🏆 GitHub Trophies
