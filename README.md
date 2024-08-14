@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hello there! I'm Federico, I am a software development student currently pursuing a technical degree in Software Development at university. I have a strong foundation in Object-Oriented Programming (OOP) and experience working with APIs using Java and Spring Boot.
+👋 Hello there! I'm Federico, I am a software development student currently pursuing a technical degree in Software Development at university. I have a strong foundation in Object-Oriented Programming (OOP) and have been developing my skills in working with APIs using Java and Spring Boot.
 
-I am continuously expanding my knowledge and skills, and I am currently focused on learning microservices architecture. Additionally, I am proficient in version control with Git and have a basic understanding of HTML and CSS, which complement my backend development skills.
+I am currently focused on learning microservices architecture to broaden my technical expertise. Additionally, I am proficient in version control with Git and have a basic understanding of HTML and CSS, which complement my backend development learning.
 
-Feel free to explore my projects and reach out if you have any questions or suggestions!
+Although I am new to the IT industry, I am passionate about growing my skills and contributing to meaningful projects. Feel free to explore my repositories and reach out if you have any questions or suggestions!
 <br>
 
 # 🌐 Socials:
