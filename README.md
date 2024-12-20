@@ -11,7 +11,7 @@ Although I am new to the IT industry, I am passionate about growing my skills an
 <br>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,idea,vscode,js,html,css,mysql,postgres,c,cpp,git,postman,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,idea,vscode,js,ts,html,css,mysql,postgres,c,cpp,git,postman,windows)](https://skillicons.dev)
 <br>
 
 # 📊 GitHub Stats:
