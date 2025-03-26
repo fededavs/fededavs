@@ -18,7 +18,6 @@ Although I am new to the IT industry, I am passionate about growing my skills an
 <div align=center>
   <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fededavs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=fededavs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height=200  src="https://github-readme-streak-stats.herokuapp.com/?user=fededavs&theme=tokyonight&hide_border=true"/>
 </div>
 <br>
 
