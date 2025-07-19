@@ -20,6 +20,3 @@ Although I am new to the IT industry, I am passionate about growing my skills an
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=fededavs&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
 </div>
 <br>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fededavs&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
